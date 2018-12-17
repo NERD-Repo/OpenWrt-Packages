@@ -1,0 +1,6 @@
+[submodule "luci/luci-app-dogcom"]
+	path = luci/luci-app-dogcom
+	url = https://github.com/NERD-Repo/luci-app-dogcom.git
+[submodule "package/dogcom"]
+	path = package/dogcom
+	url = https://github.com/NERD-Repo/openwrt-dogcom.git
